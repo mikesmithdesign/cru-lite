@@ -35,4 +35,4 @@ menu, a draggable gallery with lightbox, parallax photography, a private
 hire banner, and JSON-driven content (rebrand the whole site from one
 config file), built as an Astro 7 project.
 
-→ https://mikesmithdesign.gumroad.com/l/cru-astro-theme ($29)
+→ https://mikesmithdesign.gumroad.com/l/cru-astro-theme (£20)
